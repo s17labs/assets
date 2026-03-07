@@ -43,6 +43,17 @@ The solid red square (`#FF4136`) acts as our profile picture.
 
 ---
 
+## 👀 Previews
+
+_*Previw board is just AI generated image_
+<img width="1195" height="896" alt="1000007049" src="https://github.com/user-attachments/assets/c3e8130a-831e-443f-865d-0cf72633cca8" />
+
+<img width="2400" height="1800" alt="1000007051" src="https://github.com/user-attachments/assets/c77ee193-a772-45ef-baed-cefe34e1553d" />
+
+<img width="2400" height="1800" alt="1000007050" src="https://github.com/user-attachments/assets/214d6c87-2d36-4a1c-8927-1462ec4693e1" />
+
+---
+
 ## 🚀 Quick Links
 - **Personal Page:** [yungsamd17.github.io](https://yungsamd17.github.io/)
 - **Contact:** [yungsamd@proton.me](mailto:yungsamd@proton.me)
