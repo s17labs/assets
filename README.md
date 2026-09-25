@@ -39,4 +39,4 @@ https://raw.githubusercontent.com/s17labs/assets/main/org-branding/s17labs-logo-
 
 ---
 
-<sub>© s17 Labs — Internal use only</sub>
+<sub>© s17 Labs</sub>
