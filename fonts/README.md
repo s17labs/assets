@@ -8,6 +8,8 @@ Brand typefaces used across s17 Labs projects.
 | — | Verdana | Body copy | System font — no file needed |
 
 Aldrich is used for all headings and the wordmark. Do not use it for body copy.
+See the [design system](https://s17labs.github.io/design/) for the full
+typography spec.
 
 ---
 
